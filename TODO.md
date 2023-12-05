@@ -2,7 +2,7 @@
 * [x] Figure out how to do this comparative analysis
 * [x] Autocorrelation
 * [ ] Add dummy variables (exogenous)
-* [ ] Crisis Dummy Variables
+* [x] Crisis Dummy Variables
 * [x] Multicollinearity
 * [ ] Error Bars with Impulse 
 * [ ] Significance of Impulse response
