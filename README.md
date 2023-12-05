@@ -1,4 +1,10 @@
+
+## How to use
+1. run *pip install -r requirements.txt*
+2. Run the jupyter notebook!
+
 ## Resources
+
 ### Inspiration
 * Foreign Policy - Chinese-U.S. Split Is Forcing Singapore to Choose Sides-  https://foreignpolicy.com/2021/07/14/singapore-china-us-southeast-asia-asean-geopolitics/
 * Bloomberg - Singapore’s Next Premier Wong Warns US, China May ‘Sleepwalk Into Conflict’ - https://www.bloomberg.com/news/articles/2022-08-15/next-singapore-pm-warns-us-china-may-sleepwalk-into-conflict?embedded-checkout=true
